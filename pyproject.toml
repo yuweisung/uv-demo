@@ -7,7 +7,9 @@ authors = [
     { name = "Yu Wei Sung", email = "yuwei.sung@gmail.com" }
 ]
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "pandas>=3.0.6",
+]
 
 [project.scripts]
 uv-demo = "uv_demo:main"
