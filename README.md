@@ -10,12 +10,13 @@ cd ~/git
 uv init uv-demo
 cd uv-demo
 ```
-## 3. Set python version
+## 3. Show python version
 ```
 cat .python-version
 3.13
 ```
 ## 4. Set github repo
 ```
-git remote add origin https://github.com/yuweisung/uv-demo.git
+git remote add origin git@github.com:yuweisung/uv-demo.gituv-demo.git
+git push
 ```
