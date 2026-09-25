@@ -131,6 +131,7 @@
 
     $ https POST pie.dev/post hello=world
 
+    uv
+
     ```
 
-    
